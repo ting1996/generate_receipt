@@ -1,0 +1,1 @@
+from libs.list_receipt import ListReceipt
