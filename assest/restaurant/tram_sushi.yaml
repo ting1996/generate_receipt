@@ -1,0 +1,23 @@
+country: vn
+tax: true
+menu:
+  main:
+
+    - name: Sashimi Mix 2
+      price: 180000
+    - name: Fuji
+      price: 420000
+    - name: Salad cá ngừ
+      price: 110000
+    - name: Nấm hương
+      price: 30000
+  side:
+    - name: Yuki
+      price: 890000
+    - name: Sashimi Mix 1
+      price: 510000
+    - name: Kaze
+      price: 890000
+  drink:
+    - name: Coca
+      price: 40000

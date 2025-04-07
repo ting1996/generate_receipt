@@ -1,0 +1,48 @@
+country: vn
+tax: true
+menu:
+  main:
+    - name: SASHIMI AKAGAI
+      price: 179000
+    - name: SUSHI AKAGAI
+      price: 89000
+    - name: CÁ AYU NƯỚNG MUỐI
+      price: 129000
+    - name: SALAD BÒ
+      price: 149000
+    - name: BÒ BÍT TẾT
+      price: 209000
+    - name: SASHIMI CHUBUNE
+      price: 1089000
+    - name: CHUSUSHI TỔNG HỢP
+      price: 1079000
+    - name: SASHIMI CHUTORO
+      price: 819000
+    - name: CUỘN CÁ NGỪ
+      price: 95000
+    - name: BURGER RAU CHÂN VỊT VÀ PHÔ MAI
+      price: 220000
+    - name: SALAD GÀ CHAY
+      price: 169000
+    - name: SANDWICH THỊT XÔNG KHÓI
+      price: 180000
+    - name: CƠM VỚI THĂN BÒ
+      price: 259000
+    - name: GÀ KFC CAY
+      price: 274000
+  side:
+    - name: SÚP MISO VỚI CHẢ CÁ
+      price: 25000
+    - name: BÁNH GẠO VỚI TRỨNG VÀ MÈ
+      price: 30000
+    - name: BÁNH TÁO
+      price: 45000
+  drink:
+    - name: LATTE CA CAO
+      price: 35000
+    - name: NƯỚC CAM
+      price: 28000
+    - name: TRÀ BẠC HÀ
+      price: 18000
+    - name: NƯỚC CHANH
+      price: 24000

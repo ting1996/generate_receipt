@@ -1,0 +1,50 @@
+country: vn
+tax: false
+menu:
+  main:
+    - name: Tôm ngộ không combo
+      price: 420000
+    - name: Bestie combo
+      price: 550000
+    - name: Family combo
+      price: 985000
+    - name: Hẹn hò combo
+      price: 520000
+    - name: Đại dương combo
+      price: 520000
+    - name: Mực chiên
+      price: 155000
+    - name: Tôm chiên xốt bơ
+      price: 195000
+    - name: Khoai tây chiên
+      price: 80000
+    - name: Bắp non xào
+      price: 85000
+    - name: Salad Tôm
+      price: 125000
+    - name: Súp cà chua
+      price: 85000
+    - name: Sườn nướng BBQ
+      price: 295000
+    - name: Mỳ Ý xốt mực đen
+      price: 180000
+    - name: Cơm chiên hải sản
+      price: 115000
+  side:
+    - name: Tôm ngộ không combo
+      price: 420000
+    - name: Bestie combo
+      price: 550000
+    - name: Family combo
+      price: 985000
+    - name: Hẹn hò combo
+      price: 520000
+  drink:
+    - name: Coca
+      price: 35000
+    - name: Coca light
+      price: 35000
+    - name: Sprite
+      price: 35000
+    - name: Dasani
+      price: 25000

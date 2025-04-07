@@ -15,6 +15,8 @@ class ListReceipt():
             return list_res
 
         for dir in os.listdir(path):
-            list_res.append(object(os.path.join(path, dir)))
+            if os.path.isfile(os.path.join(path, dir)):
+                if dir.endswith(".yaml"):
+                    list_res.append(object(os.path.join(path, dir)))
         return list_res
 
